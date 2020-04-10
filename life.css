@@ -1,0 +1,148 @@
+#a{
+  text-align: center;
+  background : rgb(153,102,153);
+
+}
+ul{
+  text-align: center;
+
+
+}
+li{
+  display: inline-block;
+padding: 40px;
+font-size: 25px;
+padding-top: 10px;
+text-decoration-line: underline;
+
+}
+#b{
+float: left; margin-right: 5px;
+margin-bottom: 1px;
+border: solid black 1px;
+padding: 2px;
+/*background-color: gray;*/
+
+}
+#l{
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  border: solid black 1px;
+  padding: 2px;
+
+
+}
+#v{
+  color: green
+}
+#z{
+  text-align: center;
+}
+#we{
+  text-align: center;
+}
+#i{
+  text-align: center;
+}
+/*#para{
+  border: 1px solid blue;
+  /*margin-right: 80px;
+  margin-left: 350px;
+  border-radius: 20px;
+  text-align: center;
+  margin-left: 400px;
+
+}*/
+
+
+
+
+body{
+background-color: #d2b48c;
+
+
+}
+
+#m{
+  background-color: #b0c4de;
+}
+/*#con{
+  text-align: center;
+  border: 2px solid black;
+  margin-right: 850px;
+
+
+
+}*/
+#present{
+border: 2px dotted black;
+margin-right: 20px;
+text-align: center;
+background-color: #f08080;
+
+}
+
+
+
+
+#pren{
+  font-style: italic;
+  font-size: 20px;
+  text-indent: 50px;
+  text-align: left;
+  margin-left: 350px;
+  margin-right: 80px;
+  clear: right;
+}
+#fl{
+color: #2f4f4f;
+font-style: italic;
+
+}
+
+h2{
+color: #20b2aa;
+border: 1px solid blue;
+margin-right: 700px;
+background-color: #b0c4de;
+
+}
+
+#contact{
+  text-align: center;
+  margin-bottom: 50px;
+  color: #333333;
+  /*border: solid rgb(244,244,232);*/
+}
+/*.aaa{
+  background-color: #999999;
+}*/
+.wrapper{
+  width: 370px;
+  margin: auto;
+}
+.wrapper input[type=text],
+.wrapper input[type=email],
+textarea{
+  width: 400px;
+  margin-bottom: 15px;
+  padding: 15px;
+  background-blend-mode: lighten;
+  border-color: rgb(217,217,214);
+  font-size: 18px;
+  display: block;
+}
+.wrapper a{
+  /*background: rgb(217,217,214);*/
+  text-decoration: underline;
+  color: #333333;
+  width: inherit;
+  height: 50px;
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  margin: 35px;
+  margin: auto;
+  border-color: #333333;
+}
